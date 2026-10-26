@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Documents and generated index (may contain copyrighted or sensitive material)
+docs/*
+!docs/README.md
+embeddings/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
