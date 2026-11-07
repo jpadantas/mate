@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "MATE: Mission Assistant for Training and Evaluation"
+type: software
+authors:
+  - family-names: "Dantas"
+    given-names: "Joao P. A."
+    orcid: "https://orcid.org/0000-0003-0300-8027"
+repository-code: "https://github.com/jpadantas/mate"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  collection-title: "Conference on Neural Information Processing Systems (NeurIPS), LatinX in AI (LXAI) Workshop"
+  title: "Offline Language-Based Support System for Tactical Decision-Making in Air Combat Operations"
+  authors:
+    - family-names: "Dantas"
+      given-names: "Joao P. A."
+      orcid: "https://orcid.org/0000-0003-0300-8027"
+  year: 2025
+  url: "https://www.joaopadantas.com/publications/dantas2025offline/"

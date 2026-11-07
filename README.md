@@ -111,10 +111,10 @@ The manual used in the paper is copyrighted and is not included. Neither the `do
 
 ```bibtex
 @inproceedings{dantas2025offline,
-  title     = {Offline Language-Based Support System for Tactical Decision-Making in Air Combat Operations},
-  author    = {Dantas, Joao P. A.},
-  booktitle = {LatinX in AI Workshop at the Conference on Neural Information Processing Systems (NeurIPS)},
-  year      = {2025}
+  author = {Dantas, Joao P. A.},
+  title = {{Offline Language-Based Support System for Tactical Decision-Making in Air Combat Operations}},
+  booktitle = {Conference on Neural Information Processing Systems (NeurIPS), LatinX in AI (LXAI) Workshop},
+  year = {2025}
 }
 ```
 
