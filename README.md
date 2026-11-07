@@ -1,5 +1,8 @@
 # MATE: Mission Assistant for Training and Evaluation
 
+> **Paper, PDF and citation:** [joaopadantas.com/publications/dantas2025offline](https://www.joaopadantas.com/publications/dantas2025offline/)
+
+
 MATE is an offline language-based support tool for tactical decision-making and pilot training in air combat operations. It answers natural language questions about doctrinal and tactical manuals using retrieval-augmented generation (RAG): relevant passages are retrieved from a local FAISS index and passed as context to an open-weight language model served locally by [Ollama](https://ollama.com). No internet connection is required at runtime.
 
 This repository accompanies the paper *Offline Language-Based Support System for Tactical Decision-Making in Air Combat Operations* (LatinX in AI Workshop @ NeurIPS 2025).
